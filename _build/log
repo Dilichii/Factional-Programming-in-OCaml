@@ -1,0 +1,5 @@
+# dune init project helloworld
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: "/mnt/c/Users/didil/OneDrive/Documents/Class Notes/CS/CS4"
+# Auto-detected concurrency: 8
