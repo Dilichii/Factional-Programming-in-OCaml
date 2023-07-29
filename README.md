@@ -1,1 +1,1 @@
-# Factional-Programming-in-OCaml
+# Functional-Programming-in-OCaml
